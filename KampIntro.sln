@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{CD4514D9-5C4F-441F-BD73-5617ECA2A3D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsHomework", "GenericsHomework\GenericsHomework.csproj", "{FA9F0A79-E92B-4854-8B1A-8E8A913B9FFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{CD4514D9-5C4F-441F-BD73-5617ECA2A3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4514D9-5C4F-441F-BD73-5617ECA2A3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4514D9-5C4F-441F-BD73-5617ECA2A3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9F0A79-E92B-4854-8B1A-8E8A913B9FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9F0A79-E92B-4854-8B1A-8E8A913B9FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9F0A79-E92B-4854-8B1A-8E8A913B9FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9F0A79-E92B-4854-8B1A-8E8A913B9FFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
